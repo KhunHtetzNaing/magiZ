@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">magiZ ⚡</string>
+    <string name="select_title">Select a theme file to import ℹ️</string>
+    <string name="select_hint">Tap to select a file</string>
+    <string name="select_supported">Supported formats are: hwt, hnt and zip ✅</string>
+    <string name="apply">Import to Theme Manager</string>
+    <string name="magicui_theme_installer"><![CDATA[
+    <Honor MagicUI Theme Importer 🎨/>
+    ]]></string>
+    <string name="no_select_notice">Select a theme file first ℹ️</string>
+
+    <string name="congratulations">Congratulations 🎉</string>
+
+    <string name="sorry">SORRY!</string>
+    <string name="try_again">Try again</string>
+    <string name="unknown_error">something went wrong!</string>
+    <string name="saf_allow_note">"You need to allow this app to gain access %s directory.\n- Tap GET STARTED\n- Tap Use this folder"</string>
+    <string name="saf_create_and_allow_note">You need to create the folder named %s and allow this app to gain access to that folder.\n- Tap \"GET STARTED\"\n- Tap \"Create new folder\"\n- Type folder name \"%s\"\n- Tap \"OK\" and \"Use this folder\"</string>
+    <string name="important">IMPORTANT \u2139\uFE0F</string>
+    <string name="get_started">Get Started</string>
+    <string name="copy">Copy</string>
+    <string name="toast_copied_to_clipboard">Copied to clipboard.</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="honor_magicui_change_font_theme_note">Now, you can change the font with these steps:\n- Open \"Themes\" app\n- Tap \"Me\"\n- Tap \"My downloads\"\n- Select \"%s\" and Apply</string>
+
+    <string name="saf_wrong_select">"Folder name must be exact:
+- \"%s\" ✅
+- \"%s\" ❌"</string>
+    <string name="success_msg">Now you can apply this theme in the Themes manager.</string>
+    <string name="open_theme_manager">Open theme manager</string>
+    <string name="dev">Developed By Khun Htetz Naing 👨‍💻</string>
+
+</resources>

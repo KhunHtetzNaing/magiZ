@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.htetznaing.magiz.app-mergeReleaseResources-29:/layout/activity_main.xml",
+        "source": "com.htetznaing.magiz.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.htetznaing.magiz.app-mergeReleaseResources-29:/layout/progress_dialog.xml",
+        "source": "com.htetznaing.magiz.app-main-31:/layout/progress_dialog.xml"
+    }
+]
